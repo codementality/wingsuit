@@ -21,7 +21,7 @@ export default {
       },
       {
         title: 'Assets',
-        text: 'Learn how to manage your css, js and other asses with wingsuit.',
+        text: 'Learn how to manage your css, js and other assets with wingsuit.',
         link_title: 'continue',
         href: '/assets/overview',
       },
